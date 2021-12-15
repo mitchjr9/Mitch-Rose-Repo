@@ -9,8 +9,7 @@ Kadena
 2016
 
 ### Who are the founders of the company?
-Stuart Popejoy
-Will Martino
+Stuart Popejoy and Will Martino
 
 ### How did the idea for the company (or project) come about?
 Kadena was created to revolutionize blockchain based on the network’s chainweb architecture. By leveraging a chainweb infrastructure, Kadena is attempting to achieve revolutionary speed, scale, and energy efficiency in blockchain.
